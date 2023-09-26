@@ -21,7 +21,7 @@ body {
 }
 .card {
     width: 400px;
-    margin: 0 auto;
+    margin: 30vh auto;
     border-radius: 3px;
     padding: 20px;
     display: flex;
